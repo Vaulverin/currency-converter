@@ -1,4 +1,4 @@
-package currency_converter
+package cconverter
 
 import (
 	"fmt"
